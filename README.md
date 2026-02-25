@@ -18,12 +18,14 @@ I build complex, production-ready web applications — from enterprise HR system
 | **Project Pulse** | Team project management platform with Kanban boards & real-time collaboration | React 18, TypeScript, Redux Toolkit | In Development |
 ---
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhamedSaid&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamedSaid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
+<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhamedSaid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamedSaid&layout=compact&theme=tokyonight&hide_border=true)
+</div>
 ---
 ### 📫 Let's Connect
+<div align="center">
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammedsaid.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-said-323982213/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammed.said1312@gmail.com)
+</div>
