@@ -41,7 +41,7 @@ I build complex, production-ready web applications — from enterprise HR system
   <a href="https://muhammedsaid.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammed-said-323982213/">
+  <a href="https://www.linkedin.com/in/muhammed-said-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:muhammed.said1312@gmail.com">
