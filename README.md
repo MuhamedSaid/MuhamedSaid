@@ -27,14 +27,6 @@ I build complex, production-ready web applications — from enterprise HR system
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MuhamedSaid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
